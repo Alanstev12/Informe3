@@ -30,8 +30,13 @@ SECCIÓN 5–1 Resistores en serie
     
     2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
   ![image](https://user-images.githubusercontent.com/105374427/172937043-3b277ba2-4a93-4648-9d1d-fbc4abed1a73.png)
-    4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+   
+  	4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+   
+  
   ![image](https://user-images.githubusercontent.com/105374427/172937108-42cdcc02-de4f-4e4f-9cbf-d673968b770b.png)
+
+
 SECCIÓN 5–2 Corriente en un circuito en serie
         
     6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
@@ -40,14 +45,17 @@ SECCIÓN 5–2 Corriente en un circuito en serie
 
     8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68
     para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
-    Se puede conectar la fuente de voltaje colocando en la punta 5 el lado positivo y en la punta 6 el negativo. Ya que las resistencias.
+   Se puede conectar la fuente de voltaje colocando en la punta 5 el lado positivo y en la punta 6 el negativo. Ya que las resistencias.
     R2, R3, R4 Y R9 tienen la misma corriente, se puede conectar el amperímetro directamente al lado positivo y negativo respectivamente.
     
     SECCIÓN 5–3 Resistencia total en serie 
     10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
   ![image](https://user-images.githubusercontent.com/105374427/172937315-8f8dd593-22ec-409b-a5de-b7c96fcfe415.png)
-    12. Calcule la RT en cada circuito de la figura 5-71.
-   ![image](https://user-images.githubusercontent.com/105374427/172937373-544e8980-a0e8-4a0a-b197-b512b3406b25.png)
+   
+   
+   	12. Calcule la RT en cada circuito de la figura 5-71.
+  
+  ![image](https://user-images.githubusercontent.com/105374427/172937373-544e8980-a0e8-4a0a-b197-b512b3406b25.png)
 ![image](https://user-images.githubusercontent.com/105374427/172938243-a080e4ef-c2bd-4cdf-9e3b-fe91a7ac6070.png)
 ![image](https://user-images.githubusercontent.com/105374427/172938259-f5e346ad-621d-483c-b7c4-d7428cf00ffb.png)
 ![image](https://user-images.githubusercontent.com/105374427/172938278-d2dd2e20-84c1-48b9-96fa-12604296bc32.png)
