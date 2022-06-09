@@ -126,9 +126,87 @@ SECCIÓN 5–2 Corriente en un circuito en serie
    SECCIÓN 5–7 Divisores de voltaje
       
         38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
-          
-      
     
+   ![image](https://user-images.githubusercontent.com/105374427/172940060-99d9df29-d1dc-401d-8ba9-a9d21b913e8c.png)
+  
+  ![image](https://user-images.githubusercontent.com/105374427/172940140-9f787aad-2749-4f47-abf1-a44a91e644b0.png) ![image](https://user-images.githubusercontent.com/105374427/172940178-f4091e6c-d300-4b59-8cd6-7a67cc3dc0d0.png)
+
+	40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+	
+![image](https://user-images.githubusercontent.com/105374427/172940222-b75d0bd6-640f-4f8d-87e4-490a7c894d1c.png)
+
+![image](https://user-images.githubusercontent.com/105374427/172940268-49564bf9-d21d-461e-bb72-3d5d81bdd28b.png)
+
+    	42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+![image](https://user-images.githubusercontent.com/105374427/172940317-705db849-3ef1-438b-83e2-93fc1782505c.png)
+	
+	44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
+	
+SECCIÓN 5–8 Potencia en circuitos en serie
+	
+	46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+	
+![image](https://user-images.githubusercontent.com/105374427/172940500-c316df1a-c845-42d6-9b6a-b1528ae3ff9f.png)
+
+
+	48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+	
+![image](https://user-images.githubusercontent.com/105374427/172940556-8c59056b-c2ab-40f5-b52d-8a8d7922173d.png)
+
+
+
+	
+	50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+	a) I 
+	b)V_T 
+	c) El valor de cada resistor
+	
+SECCIÓN 5–9 Mediciones de voltaje
+
+	52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105374427/172940667-d7a983fe-6dbd-4d12-89e6-639af1913ae9.png)
+
+![image](https://user-images.githubusercontent.com/105374427/172940683-0e494fc2-240b-4e30-a3ea-77088cfbf27a.png)
+	
+	SECCIÓN 5–10 Localización de fallas
+	54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+	
+Puede que se presente un resistor abierto, en ese caso se medirá el voltaje directo el cual es 12 V
+
+	56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito
+	
+![image](https://user-images.githubusercontent.com/105374427/172940774-7e58c7c5-8f77-432b-8d61-2e60c29e1af3.png)
+
+![image](https://user-images.githubusercontent.com/105374427/172940814-6ad60899-7c31-410f-9c42-1c591697137e.png)
+	
+	58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
+
+	60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
+	(a) ¿Qué sucedió?
+	(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
+	(c) ¿Con qué voltaje ocurrió la falla?
+
+
+Pag 235 PDF
+SECCIÓN 6–1 Resistores en paralelo
+	
+	2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/105374427/172940929-d73935a2-daef-49b3-aef8-c286081d9916.png)
+![image](https://user-images.githubusercontent.com/105374427/172940947-51dfc52a-c42f-4559-9279-640cd0d4d4c0.png)
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+	
+	4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+![image](https://user-images.githubusercontent.com/105374427/172941006-31a517a9-8bd3-4870-b9c9-371dc774710a.png)
+
+	6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+
+
+	
 # 5. VIDEO
 
 https://youtu.be/btnMSPi9t8s
