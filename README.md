@@ -77,7 +77,9 @@ SECCIÓN 5–2 Corriente en un circuito en serie
       
       20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
    ![image](https://user-images.githubusercontent.com/105374427/172938773-f0046cd9-ced6-4231-b978-50031232ba47.png)
+   
   ![image](https://user-images.githubusercontent.com/105374427/172938894-072d116d-9e36-4c42-b80b-a1ee4385926a.png) ![image](https://user-images.githubusercontent.com/105374427/172938944-72440ba6-7726-4aa1-803b-e2a05c479732.png)
+      
       
       22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
        
