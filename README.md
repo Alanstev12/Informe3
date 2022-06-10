@@ -163,6 +163,18 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 	b)V_T 
 	c) El valor de cada resistor
 	
+P=I2RR=
+
+PI2R1+R2+R3+R4=
+
+2400Ω x 18W x I2+14 x WI2+12W x I2=
+
+2400Ω x 78W x I2 = 2400Ω x I2= 78W x 2400Ω= 0.0003646 A2
+
+I=0.0003446=19.1 mA
+	
+	
+	
 SECCIÓN 5–9 Mediciones de voltaje
 
 	52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
@@ -184,11 +196,26 @@ Puede que se presente un resistor abierto, en ese caso se medirá el voltaje dir
 	
 	58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 
+
+![image](https://user-images.githubusercontent.com/105374427/173062113-651693c7-21eb-46d7-ad58-ba81f8d629a3.png)
+
+En esta placa las resistencias R12 ,R9 ,R5 y R3 estan conectadas en serie en las puntas nombradas por tanto la resistencia total es la sumatoria de estas dando asi 15kΩ. En cambio en el enunciado la resistencia es otra, concluyendo que esta mal.
+
+
+
+
 	60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
 	(a) ¿Qué sucedió?
 	(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
 	(c) ¿Con qué voltaje ocurrió la falla?
 
+
+a) R11 se ha quemado porque tiene el valor de resistencia más alto:
+
+(b) Reemplazar R11 (10kΩ)
+
+
+![image](https://user-images.githubusercontent.com/105374427/173062162-41bb1038-c942-4f39-91ac-5d3bd4aeb1fd.png)
 
 Pag 235 PDF
 SECCIÓN 6–1 Resistores en paralelo
@@ -282,10 +309,22 @@ SECCIÓN 6–6 Fuentes de corriente en paralelo
 ![image](https://user-images.githubusercontent.com/105374427/172954122-35188cf4-a072-44ea-94ea-63dd7019feec.png)
 	
 	36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω. (b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM  50 Ω).
+
+b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM 50 Ω).
+
+IT=10mA; IM=1mA; ISH1=9mA IT=100mA; IM=1mA; ISH1=99mA
+
+VM=IMRM=1mA50Ω=50mV VM=IMRM=1mA50Ω=50mV
+
+RSH1=VM/ISH1=50mV/9mA=5.56Ω RSH1=VM/ISH2=50mV/99mA=0.505Ω
+
+
+
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 	38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
-	
+PT=5*250mW=1.5W
+
 	40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 ![image](https://user-images.githubusercontent.com/105374427/172954174-d7d49e16-4613-403e-b178-38cec27f83a1.png)
 
@@ -311,10 +350,26 @@ SECCIÓN 6–10 Localización de fallas
 	c) 3 y 4 
 	d) 1 y 4
 
-	
+(a) 1 y 2
+
+R=10kΩ2.2kΩ2.2kΩ3.3kΩ18kΩ1kΩ+4.7kΩ4.7kΩ6.8kΩ5 .6kΩ1kΩ5.6Ω=940Ω
+
+(b) 2 y 3
+
+R=4.7kΩ4.7kΩ6.8kΩ5.6kΩ1kΩ*5.6kΩ=518Ω
+
+(c) 3 y 4
+
+R=4.7kΩ4.7kΩ6.8kΩ5.6kΩ1kΩ*5.6kΩ=518Ω
+
+(d) 1 y 4
+
+R=10kΩ2.2kΩ2.2kΩ3.3kΩ18kΩ=422Ω
+
+
 # 5. VIDEO
 
-https://youtu.be/btnMSPi9t8s
+
 # 6. CONCLUSIONES
 
 La ley de ohm es escencial para el aprendisaje de la electronica ya que esta es el pilar de nuestros circuitos sean en paralelos o en serie, asi mismo saber reconocer la potencia que puede llegar a dar una bateria o consumir un foco nos ayuda a poder utilizar una resistencia adecuada  la cual no sufra fallos por sobrecalentamiento, el haber aprendido sobre APM nos inicia en el reconocimiento de fallos en componentes, que en el laboratorio seran escenciales para reconocer errores.
