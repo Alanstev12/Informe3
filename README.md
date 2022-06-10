@@ -11,6 +11,37 @@ El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley d
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+![1](https://user-images.githubusercontent.com/105374427/173075454-89bd57da-2f3a-4d56-be49-f525d6d3bbc2.png)
+
+![2](https://user-images.githubusercontent.com/105374427/173075461-b37719d2-2d12-4b54-9db4-ae2462737bd3.png)
+
+![3](https://user-images.githubusercontent.com/105374427/173075463-9a49af87-21d0-4dd4-96c2-7d499f7844ec.png)
+
+![4](https://user-images.githubusercontent.com/105374427/173075467-77da2f28-bbf3-44ca-944a-af5cbc98aff6.png)
+
+![5](https://user-images.githubusercontent.com/105374427/173075472-e3c8396f-0b27-4224-b4a3-edf90280564d.png)
+
+
+![cap 6 ](https://user-images.githubusercontent.com/105374427/173076131-136d0549-d8bd-49f0-bc69-7fb72f31e5e5.png)
+
+
+![cap 6  (2)](https://user-images.githubusercontent.com/105374427/173076172-7c28d57c-570e-437b-a585-9b8dc0de317b.png)
+
+![cap 6  (3)](https://user-images.githubusercontent.com/105374427/173076176-d83d5639-96a8-48f9-a73e-a27b7e4f4cf5.png)
+
+![cap 6  (4)](https://user-images.githubusercontent.com/105374427/173076182-64c9e8e5-08b0-49c5-9bfa-5728763f36cf.png)
+
+![cap 6  (5)](https://user-images.githubusercontent.com/105374427/173076184-bdba3427-2faf-4a83-8641-b19a45e4684f.png)
+
+![cap 6  (6)](https://user-images.githubusercontent.com/105374427/173076185-313e9f93-e82b-4ea4-b00a-09233ebe9e1d.png)
+
+![cap 6  (7)](https://user-images.githubusercontent.com/105374427/173076186-9ff1e72a-be53-4520-b88f-44711a6bb992.png)
+
+![cap 6  (8)](https://user-images.githubusercontent.com/105374427/173076188-a0e8c5ae-9bb3-49cf-928b-1f18f8b2fb26.png)
+
+![14](https://user-images.githubusercontent.com/105374427/173076239-8de3a979-d49a-43c6-a0f5-81b9047a264a.png)
+
+
 # 3. EXPLICACION DEL PROCEDIMIENTO
 
 - Para realizar estos ejercicios es necesario 
