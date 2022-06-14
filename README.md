@@ -3,10 +3,18 @@
 
 # 1. OBJETIVOS
 
-Vamos a reconocer circuitos en serie y calcular los valores de sus resistencias, de la corriente y su voltaje mediante la ley de ohm, asi mismo representar la notacion cientifica mediante prefijos y manejar estos valores en calculos matematicos, habiendo dominado estos temas procederemos a revisar como funciona el metodo APM para deteccion de errores.
-El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley de ohm para, aprender sobre potencia, que es escencial para armar un circuito con seguridad, que sumados a nuestros conocimientos sobre resistencias nos daran una mejor idea de el funcionamiento de estas y como influye el saber manejar este tema con la seguridad de nuestro circuito contra fallas y sobrecalentamientos. Tambien se  incorporara conocimientos en baterias ya que la potencia tambien viene ligada a este tema para el manejo de corriente y eficiencia en las mismas. 
+1.1 Objetivo General 
 
+Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. Asi como tambien aplicar principios indicados en los capitulos anteriores y utilizarlos para los diferentes claculos. 
 
+1.2 Objetivos Específicos
+  
+- Identificar un circuito resistivo en serie
+- Explicar por qué los valores de resistencia se suman cuando los resistores están conectados en serie
+- Encontrar el voltaje entre los extremos de cada resistor en serie
+- Identificar un circuito resistivo en paralelo
+- Explicar por qué el voltaje es el mismo a través de todos los resistores dispuestos en paralelo
+- Localizar fallas en circuitos en paralelo
 
 
 # 2. MARCO TEÓRICO (RESUMEN)
@@ -400,11 +408,14 @@ R=10kΩ2.2kΩ2.2kΩ3.3kΩ18kΩ=422Ω
 
 # 5. VIDEO
 
+https://youtu.be/1p7abrHeDPA
+
 
 # 6. CONCLUSIONES
 
-La ley de ohm es escencial para el aprendisaje de la electronica ya que esta es el pilar de nuestros circuitos sean en paralelos o en serie, asi mismo saber reconocer la potencia que puede llegar a dar una bateria o consumir un foco nos ayuda a poder utilizar una resistencia adecuada  la cual no sufra fallos por sobrecalentamiento, el haber aprendido sobre APM nos inicia en el reconocimiento de fallos en componentes, que en el laboratorio seran escenciales para reconocer errores.
-Principalmente el manejar la potencia puede ser de mucha ayuda para encontrar valores de voltaje, resistencia y corriente, asi mismo nos ayuda a saber la eficiencia de una bateria mediante el conocimiento de los ampers-hora que puede llegar a darnos y esto es importante para lo que continua en nuestra especialidad, aun que no es primordial como saber la ley de omh es una buena herramienta para manejar nuestros circuitos. 
+• Es importante tener los conceptos de leyes de kirchhoff muy claros ya que estos nos ayudaran con nuestro estudio y son la base de los circuitos, a partir de estas leyes podemos hacer una gran cantidad de calculos que nos ayudaran a optimizar el circuito
+
+•En este capitulo aprendimos las grandes diferencias que hay entre los circuitos en serie y los circuitos en paralelo, pudimos ver caracteristicas que hacen que cada tipo de circuito pueda tener una mayor eficiencia en diferentes circunstancias, y como podemos usar esta regla de (la corriente en los circuitos en serie se mantiene y en los circuitos en paralelo se divide).
 
 # 7. BIBLIOGRAFÍA
 FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. México: PEARSON EDUCACIÓN.
